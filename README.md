@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/anshtandale9804" target="blank"><img src="https://img.shields.io/twitter/follow/anshtandale9804?logo=twitter&style=for-the-badge" alt="anshtandale9804" /></a> </p>
 
-- 🔭 I’m currently working on [Astra-AI](https://github.com/Ansh9804/Astra-Windows-Assistant)
-
 - 🌱 I’m currently learning **AWS,AI**
 
 - 💬 Ask me about **React, MERN**
